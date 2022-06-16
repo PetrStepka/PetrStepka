@@ -16,6 +16,9 @@
 GIT, OpenText Exstream, ContentServer, OTDS, TFS, Cisco routers, VMWare ESXi, Kentico CMS
 
 ## Certifications
+- 2022 - OpenText Extended ECM for SAP Solutions Business Administrator
+- 2022 - OpenText Exstream Administrator
+- 2022 - OpenText AppWorks Platform Administrator
 - 2022 - 🚑 VZS ČČK - Vodní záchranář Z3
 - 2022 - 🔥 Vyprošťování zraněných osob z havarovaných vozidel
 - 2021 - OpenText AppWorks Platform Developer
