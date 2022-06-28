@@ -16,14 +16,15 @@
 GIT, OpenText Exstream, ContentServer, OTDS, TFS, Cisco routers, VMWare ESXi, Kentico CMS
 
 ## Certifications
+- 2022 - 🔥 Training for work at height and rescue by law 309/2006 Sb.
 - 2022 - OpenText Extended ECM for SAP Solutions Business Administrator
 - 2022 - OpenText Exstream Administrator
 - 2022 - OpenText AppWorks Platform Administrator
-- 2022 - 🚑 VZS ČČK - Vodní záchranář Z3
-- 2022 - 🔥 Vyprošťování zraněných osob z havarovaných vozidel
+- 2022 - 🚑 VZS ČČK - Vodní záchranář Z3 (Water rescuer)
+- 2022 - 🔥 Vyprošťování zraněných osob z havarovaných vozidel (Rescue of persons in traffic accidents on roads)
 - 2021 - OpenText AppWorks Platform Developer
-- 2020 - 🔥 Nositel dýchací techniky
-- 2020 - 🔥 Obsluhovatel motorové pily
+- 2020 - 🔥 Nositel dýchací techniky (Firefighter - SCBA training)
+- 2020 - 🔥 Obsluhovatel motorové pily (Leading Chainsaw Training Courses)
 - 2019 - Microsoft 365 Certified: Teamwork Administrator Associate
 - 2017 - 🪂 Skydiving instructor license
 - 2016 - Microsoft® Certified Solutions Expert: Productivity
