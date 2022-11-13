@@ -16,7 +16,9 @@
 GIT, OpenText Exstream, ContentServer, OTDS, TFS, Cisco routers, VMWare ESXi, Kentico CMS
 
 ## Certifications
-- 2022 - 🔥 Training for work at height and rescue by law 309/2006 Sb.
+- 2022 - 🔥 Firefighter engineer training
+- 2022 - 🔥 Training for work at height and rescue by law 309/2006 Sb. - Rope access
+- 2022 - 🔥 Training for work at height and rescue by law 309/2006 Sb. - Roof and construction
 - 2022 - OpenText Extended ECM for SAP Solutions Business Administrator
 - 2022 - OpenText Exstream Administrator
 - 2022 - OpenText AppWorks Platform Administrator
