@@ -16,6 +16,7 @@
 GIT, OpenText Exstream, ContentServer, OTDS, TFS, Cisco routers, VMWare ESXi, Kentico CMS
 
 ## Certifications
+- 2025 - 🩺 Advanced Invasive Techniques Course in Real Anatomy Conditions (ČVUT)
 - 2024 - 🧠 TOGAF® EA Foundation
 - 2024 - 👨‍🚒 Squad Leader @ JSDH Brandýsek
 - 2023 - 🚑 NAEMT Tactical Emergency Casualty Care
