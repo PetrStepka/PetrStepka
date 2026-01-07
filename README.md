@@ -99,7 +99,7 @@ SharePoint portal supporting the new Corporate Identity (CI) of dealership netwo
 
 ### odecet.info – Remote Utility Reading Platform
 **Description**  
-Co-founded and leading technology development for odecet.info, a company specializing in remote reading of heat and water utilities. The solution utilizes wireless M-Bus (wMBUS) technology for meter communication and LTE IoT hardware for data transmission to our custom server infrastructure, enabling efficient and automated utility monitoring and billing.
+Co-founded and lead technology development for odecet.info, a company specializing in remote reading of heat and water utilities. The solution utilizes wireless M-Bus (wMBUS) technology for meter communication and LTE IoT hardware for data transmission to our custom server infrastructure, enabling efficient and automated utility monitoring and billing.
 
 **Technologies used:**  
 Wireless M-Bus (wMBUS), LTE IoT hardware, custom server backend
