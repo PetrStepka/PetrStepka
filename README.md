@@ -1,6 +1,7 @@
 # Petr Štěpka
 #### ♾ Chief Developer @ Aricoma (formerly Sabris)
 #### 👨‍💻 ECM Architect & C# Team Lead @ Aricoma
+#### 🏢 Co-founder & Head of Technology @ odecet.info
 #### 👨‍🚒🔥 Firefighter @ JSDH Brandýsek (Squad Leader)
 #### 🚑 Paramedic & First Responder @ ZZS HMP / VZS ČČK
 
@@ -46,16 +47,17 @@ GIT, OpenText Exstream, ContentServer, OTDS, TFS, Cisco routers, VMWare ESXi, Ke
 - 2007 - Microsoft Windows SharePoint Services 3.0
 
 ## Education and other knowledge
-- 2025–Now – ČVUT, Fakulta biomedicínského inženýrství – Civilní nouzové plánování (Mgr.)
-- 2022–2025 – Vysoká škola zdravotnická – Zdravotnický záchranář (Bc.)
-- Languages – English B2, Czech native
-- Driving license – B, C
+- 2025–Now – Czech Technical University (CTU), Faculty of Biomedical Engineering – Civil Emergency Planning (Master's degree / MSc)
+- 2022–2025 – Medical College of Nursing – Paramedic Science (Bachelor's degree / BSc)
+- Languages – English B2 (Upper-Intermediate), Czech (Native)
+- Driving license – B (Passenger cars), C (Trucks / Heavy vehicles)
 
 ## Work experience
 | From | To   | Company                | Role |
 |------|------|------------------------|-----------------------------------------------|
 | 2014 | Now  | Aricoma (formerly Sabris) | Chief Developer, ECM Architect & C# Team Lead |
 | 2024 | Now  | Zdravotnická záchranná služba hl. m. Prahy | Paramedic |
+| 2020 | Now  | odecet.info            | Co-founder & Head of Technology |
 | 2011 | 2014 | titio s.r.o.           | Division Director |
 | 2010 | 2011 | titio s.r.o.           | COO |
 | 2006 | 2010 | Conceptica s.r.o.      | SharePoint Consultant |
@@ -92,3 +94,14 @@ Implemented a key robust on-premise requirements management solution for the Eur
 SharePoint portal supporting the new Corporate Identity (CI) of dealership network. In addition to the European home market, the new design has been implemented at dealers throughout China, Russia, and India, as well as sales centers in Australia, Taiwan, and Algeria. All the supporting documentation was shared on this portal.
 
 **Responsibility** – Technical solution design, development, CI/CD
+
+---
+
+### odecet.info – Remote Utility Reading Platform
+**Description**  
+Co-founded and leading technology development for odecet.info, a company specializing in remote reading of heat and water utilities. The solution utilizes wireless M-Bus (wMBUS) technology for meter communication and LTE IoT hardware for data transmission to our custom server infrastructure, enabling efficient and automated utility monitoring and billing.
+
+**Technologies used:**  
+Wireless M-Bus (wMBUS), LTE IoT hardware, custom server backend
+
+**Responsibility** – Co-founder, Head of Technology, solution architecture, hardware integration, server infrastructure
