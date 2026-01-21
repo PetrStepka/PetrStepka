@@ -1,6 +1,6 @@
 # Petr Štěpka
 #### ♾ Chief Developer @ Aricoma (formerly Sabris)
-#### 👨‍💻 ECM Architect & C# Team Lead @ Aricoma
+#### 👨‍💻 ECM Architect & Dev Team Lead @ Aricoma
 #### 🏢 Co-founder & Head of Technology @ odecet.info
 #### 👨‍🚒🔥 Firefighter @ JSDH Brandýsek (Squad Leader)
 #### 🚑 Paramedic & First Responder @ ZZS HMP / VZS ČČK
